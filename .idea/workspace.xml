@@ -2,12 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/CircularLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/CircularLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/SingleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/SingleLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/Queue/Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/Queue/Deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/Graphs/BreadthFirstSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/Graphs/DepthFirstSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/Graphs/DijkstraAlgorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/Trees/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data_Structures/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPairSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayPairSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearchTreeCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearchTreeCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Trees/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/LinkedBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Trees/LinkedBinaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/UnivalTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Hashing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClosestPairSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClosestPairSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvertArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashing/HashTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Hashing/HashTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hashing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Searching/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heap/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Sorting/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/CircularLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/LinkedLists/CircularLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/DoublyLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/LinkedLists/DoublyLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/SingleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/LinkedLists/SingleLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/SortedLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/LinkedLists/SortedLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedLists/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/ArrayQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/ArrayQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/Deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/LinkedQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/LinkedQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/PriorityQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Graphs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoveNodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveNodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Searching/Searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Searching/Searching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Searching/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Heap/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/LinkedLists/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/ArrayStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Stack/ArrayStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/LinkedStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Stack/LinkedStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BinarySearchTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/LinkedBinaryTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/TernarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Trees/TernarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Stack/__init__.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Data_StructuresAndAlgoritms" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YFe1FMUgLx2QvUpVXmlfVilOH2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,20 +71,56 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\John YK\PycharmProjects\Questions" />
+      <recent name="C:\Users\John YK\PycharmProjects\Questions\BinaryTree" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\John YK\PycharmProjects\Questions" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\John YK\PycharmProjects\Questions\BinaryTree" />
-      <recent name="C:\Users\John YK\PycharmProjects\Questions" />
-    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.AutoComplete">
+    <configuration name="ArrayPairSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArrayPairSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="AutoComplete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,28 +133,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoComplete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DecodeString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Questions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecodeString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,6 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/LinkedBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -121,6 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/TernarySearchTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -142,6 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -154,24 +212,12 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.AutoComplete" />
+        <item itemvalue="Python.ArrayPairSum" />
         <item itemvalue="Python.TernarySearchTree" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.LinkedBinaryTree" />
-        <item itemvalue="Python.DecodeString" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -183,8 +229,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582542552872</updated>
+      <workItem from="1585902044553" duration="562000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="175" y="0" key="#Notifications" timestamp="1585752630768">
@@ -247,5 +308,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585843727162" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Questions$AutoComplete.coverage" NAME="AutoComplete Coverage Results" MODIFIED="1585902647778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Questions$ArrayPairSum.coverage" NAME="ArrayPairSum Coverage Results" MODIFIED="1585902609031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

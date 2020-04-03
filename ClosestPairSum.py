@@ -1,4 +1,4 @@
-from Sorting.Sorting import bubble_sort
+from Algorithms.Sorting.Sorting import bubble_sort
 
 
 def closestPairSum(list1,list2,x):

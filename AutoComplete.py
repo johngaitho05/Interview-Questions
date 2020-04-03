@@ -1,5 +1,5 @@
 
-from Trees.TernarySearchTree import TernarySearchTree
+from Data_Structures.Trees.TernarySearchTree import TernarySearchTree
 
 
 def auto_complete(sub_string, dictionary):

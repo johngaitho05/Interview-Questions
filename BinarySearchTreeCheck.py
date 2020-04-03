@@ -1,5 +1,5 @@
-from BinaryTree.BinarySearchTree import BinarySearchTree
-from Sorting.Sorting import bubble_sort
+from Data_Structures.Trees.BinarySearchTree import BinarySearchTree
+from Algorithms.Sorting.Sorting import bubble_sort
 
 
 # naive solution

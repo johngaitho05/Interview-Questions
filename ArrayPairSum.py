@@ -4,7 +4,7 @@ def findPair(a, k):
     for i in range(len(a)):
         other_num = k - a[i]
         if other_num in seen:
-            pairs.append((other_num, a[i]))
+            pairs.add((other_num, a[i]))
         else:
             pairs.add((min(a[i], other_num), max(a[i], other_num)))
     print('\n'.join(map(str, list(pairs))))

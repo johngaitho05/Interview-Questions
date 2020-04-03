@@ -1,4 +1,4 @@
-from LinkedLists.SingleLinkedList import SingleLinkedList
+from Data_Structures.LinkedLists.SingleLinkedList import SingleLinkedList
 
 my_list = SingleLinkedList([5,2,5,2,5,8,4,5,5,5,5,5,5,7,5,2,5,2,5,5,2,6,4,5])
 
