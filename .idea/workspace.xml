@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/CircularLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/CircularLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/SingleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/LinkedLists/SingleLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/Queue/Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/Queue/Deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_StructuresAndAlgoritms/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Data_StructuresAndAlgoritms" />
+  </component>
+  <component name="ProjectId" id="1YFe1FMUgLx2QvUpVXmlfVilOH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\John YK\PycharmProjects\Questions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\John YK\PycharmProjects\Questions\BinaryTree" />
+      <recent name="C:\Users\John YK\PycharmProjects\Questions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AutoComplete">
+    <configuration name="AutoComplete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoComplete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DecodeString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecodeString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTree/LinkedBinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TernarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/TernarySearchTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.AutoComplete" />
+        <item itemvalue="Python.TernarySearchTree" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.LinkedBinaryTree" />
+        <item itemvalue="Python.DecodeString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="" />
+      <created>1582542552872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582542552872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1585752630768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585752630768" />
+    <state x="413" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582950250336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582950250336" />
+    <state x="413" y="66" key="FileChooserDialogImpl" timestamp="1585897542323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="66" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585897542323" />
+    <state width="1340" height="91" key="GridCell.Tab.0.bottom" timestamp="1585896189759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="91" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585896189759" />
+    <state width="1340" height="91" key="GridCell.Tab.0.center" timestamp="1585896189759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="91" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585896189759" />
+    <state width="1340" height="91" key="GridCell.Tab.0.left" timestamp="1585896189759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="91" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585896189759" />
+    <state width="1340" height="91" key="GridCell.Tab.0.right" timestamp="1585896189759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585896189759" />
+    <state width="1340" height="209" key="GridCell.Tab.1.bottom" timestamp="1583165976035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583165976035" />
+    <state width="1340" height="209" key="GridCell.Tab.1.center" timestamp="1583165976034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583165976034" />
+    <state width="1340" height="209" key="GridCell.Tab.1.left" timestamp="1583165976034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583165976034" />
+    <state width="1340" height="209" key="GridCell.Tab.1.right" timestamp="1583165976034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583165976034" />
+    <state x="86" y="0" key="SettingsEditor" timestamp="1585897161687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="86" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585897161687" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582646381587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1582646381587" />
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1585894983837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585894983837" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1585843727162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585843727162" />
+  </component>
+</project>
