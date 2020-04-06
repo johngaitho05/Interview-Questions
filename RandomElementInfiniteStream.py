@@ -18,4 +18,4 @@ def pick(big_stream):
     return random_element
 
 
-print(pick("mmmmmmmmmmmmmmmmmmmnooooooooooooooooppppppppppppppppppqqqqqqqqqqrrrrrrrrrrrrrrrrrssssssssssssssss"))
+print(pick("mmmmmmmmmmmmmmppppppppppppppqqqqqssssssssssssssss"))

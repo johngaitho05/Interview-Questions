@@ -69,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.E-commerceLog">
+  <component name="RunManager" selected="Python.RandomElementInfiniteStream">
     <configuration name="E-commerceLog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.E-commerceLog" />
         <item itemvalue="Python.RandomElementInfiniteStream" />
+        <item itemvalue="Python.E-commerceLog" />
         <item itemvalue="Python.XORLinkedList" />
         <item itemvalue="Python.EstimatePi" />
         <item itemvalue="Python.LongestSubstring" />
@@ -287,7 +287,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Questions$EstimatePi.coverage" NAME="EstimatePi Coverage Results" MODIFIED="1586163488307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Questions$XORLinkedList.coverage" NAME="XORLinkedList Coverage Results" MODIFIED="1586168946470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Questions$RandomElementInfiniteStream.coverage" NAME="RandomElementInfiniteStream Coverage Results" MODIFIED="1586169766203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Questions$E_commerceLog.coverage" NAME="E-commerceLog Coverage Results" MODIFIED="1586181912328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Questions$RandomElementInfiniteStream.coverage" NAME="RandomElementInfiniteStream Coverage Results" MODIFIED="1586182136286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
