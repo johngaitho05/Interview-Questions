@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EstimatePi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-commerceLog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomElementInfiniteStream.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClimbStairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClosestPairSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClosestPairSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClimbStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveStaircase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsCarCdr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConsCarCdr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecodeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/DecodeString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstimatePi.py" beforeDir="false" afterPath="$PROJECT_DIR$/EstimatePi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LongestSubstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoncontageousMaxSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/NoncontageousMaxSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XORLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/XORLinkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/largestContinousSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/largestContinousSum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EstimatePi">
-    <configuration name="ClimbStairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.E-commerceLog">
+    <configuration name="E-commerceLog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,29 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClimbStairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ClosestPairSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Questions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosestPairSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/E-commerceLog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomElementInfiniteStream" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +149,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomElementInfiniteStream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="XORLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Questions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XORLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.E-commerceLog" />
+        <item itemvalue="Python.RandomElementInfiniteStream" />
+        <item itemvalue="Python.XORLinkedList" />
         <item itemvalue="Python.EstimatePi" />
         <item itemvalue="Python.LongestSubstring" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.ClosestPairSum" />
-        <item itemvalue="Python.ClimbStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +202,7 @@
       <updated>1582542552872</updated>
       <workItem from="1585902044553" duration="1764000" />
       <workItem from="1585991362447" duration="559000" />
-      <workItem from="1586154160349" duration="3475000" />
+      <workItem from="1586154160349" duration="13182000" />
     </task>
     <servers />
   </component>
@@ -282,5 +286,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Questions$EstimatePi.coverage" NAME="EstimatePi Coverage Results" MODIFIED="1586163488307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Questions$XORLinkedList.coverage" NAME="XORLinkedList Coverage Results" MODIFIED="1586168946470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Questions$RandomElementInfiniteStream.coverage" NAME="RandomElementInfiniteStream Coverage Results" MODIFIED="1586169766203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Questions$E_commerceLog.coverage" NAME="E-commerceLog Coverage Results" MODIFIED="1586181912328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
