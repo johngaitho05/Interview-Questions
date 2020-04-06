@@ -1,5 +1,5 @@
 from Data_Structures.Trees import BinarySearchTree
-from Data_Structures.Heap import MaxHeap
+from Data_Structures.Heap.Heap import MaxHeap
 from Data_Structures.Queue import LinkedQueue
 
 

@@ -3,32 +3,32 @@ class HeapEmptyError(Exception):
 
 
 class MaxHeap:
-    def __init__(self,maxSize=10, initial_elements=None):
-        self.a = [None]*maxSize
+    def __init__(self, maxSize=10, initial_elements=None):
+        self.a = [None] * maxSize
         self.n = 0
         if initial_elements is not None:
             for element in initial_elements:
                 self.insert(element)
 
     def insert(self, value):
-        self.n+=1
+        self.n += 1
         self.a[self.n] = value
         self.restore_up(self.n)
 
     def restore_up(self, i):
         k = self.a[i]
-        iparent =  i//2
+        iparent = i // 2
 
         if type(k) != int:
             while iparent >= 1 and self.a[iparent].priority < k.priority:
                 self.a[i] = self.a[iparent]
                 i = iparent
-                iparent = i//2
+                iparent = i // 2
         else:
             while iparent >= 1 and self.a[iparent] < k:
                 self.a[i] = self.a[iparent]
                 i = iparent
-                iparent = i//2
+                iparent = i // 2
         self.a[i] = k
 
     def delete_root(self):
@@ -36,14 +36,14 @@ class MaxHeap:
             raise HeapEmptyError("Heap is empty")
         maxValue = self.a[1]
         self.a[1] = self.a[self.n]
-        self.n-=1
+        self.n -= 1
         self.restore_down(1)
         return maxValue
 
     def restore_down(self, i):
         k = self.a[i]
-        lchild = 2*i
-        rchild = lchild+1
+        lchild = 2 * i
+        rchild = lchild + 1
 
         if type(k) != int:
             while rchild <= self.n:
@@ -57,8 +57,8 @@ class MaxHeap:
                     else:
                         self.a[i] = self.a[rchild]
                         i = rchild
-                lchild = 2*i
-                rchild = lchild+1
+                lchild = 2 * i
+                rchild = lchild + 1
 
             # if number of nodes is even
             if lchild == self.n and k.priority < self.a[lchild].priority:
@@ -90,7 +90,7 @@ class MaxHeap:
     def display(self):
         if self.n == 0:
             return []
-        return self.a[1:self.n+1]
+        return self.a[1:self.n + 1]
 
 
 if __name__ == '__main__':
@@ -114,21 +114,3 @@ if __name__ == '__main__':
             print()
         except ValueError:
             print('Invalid option')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
