@@ -8,7 +8,6 @@ record(order_id): adds the order_id to the log
 get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 """
-from distutils.command.install_data import install_data
 
 
 class Log:
@@ -24,15 +23,14 @@ class Log:
         self.last = index
 
     def get_last(self, i):
-        if i not in range(1, self.max_size+1):
+        if i not in range(1, self.max_size + 1):
             raise ValueError("i must be between 1 and " + str(self.max_size))
         index = (self.max_size + (self.last - (i - 1))) % self.max_size
         return self.items[index]
 
 
 log1 = Log(5)
-records = [1, 2, 3, 4, 5, 6, 7, 8]
-for record in records:
-    log1.record(record)
+for num in range(1, 8):
+    log1.record(num)
 print(log1.items)
-print(log1.get_last(5))
+print(log1.get_last(1))

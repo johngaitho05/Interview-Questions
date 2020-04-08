@@ -18,7 +18,6 @@ def compute_pi(n):
 def simulator(n):
     p_in_a_circle = 0
     for i in range(n):
-        # random.().random(): (0, 1)
         x = random.random()
         y = random.random()
         if math.sqrt(x * x + y * y) < 1:
@@ -27,6 +26,10 @@ def simulator(n):
 
 
 print('{:0.3f}'.format(compute_pi(100000)))
+
+
+
+
 
 
 

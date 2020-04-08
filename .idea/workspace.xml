@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/E-commerceLog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomElementInfiniteStream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoComplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClimbStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveStaircase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsCarCdr.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConsCarCdr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecodeString.py" beforeDir="false" afterPath="$PROJECT_DIR$/DecodeString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Structures/Queue/PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Queue/PriorityQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commerceLog.py" beforeDir="false" afterPath="$PROJECT_DIR$/E-commerceLog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EstimatePi.py" beforeDir="false" afterPath="$PROJECT_DIR$/EstimatePi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LongestSubstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoncontageousMaxSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/NoncontageousMaxSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XORLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/XORLinkedList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/largestContinousSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/largestContinousSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerfectShuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectShuffle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powerOf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/powerOf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../restapi" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -57,19 +53,7 @@
       <recent name="C:\Users\John YK\PycharmProjects\Questions" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.RandomElementInfiniteStream">
+  <component name="RunManager" selected="Python.FileSystem">
     <configuration name="E-commerceLog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EstimatePi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FileSystem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,8 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EstimatePi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileSystem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Structures/Heap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LongestSubstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structures/Heap/Heap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RandomElementInfiniteStream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PriorityQueue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_Structures/Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomElementInfiniteStream.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Structures/Queue/PriorityQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XORLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,8 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XORLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,13 +162,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RandomElementInfiniteStream" />
+        <item itemvalue="Python.FileSystem" />
+        <item itemvalue="Python.Heap" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.PriorityQueue" />
         <item itemvalue="Python.E-commerceLog" />
-        <item itemvalue="Python.XORLinkedList" />
-        <item itemvalue="Python.EstimatePi" />
-        <item itemvalue="Python.LongestSubstring" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -202,7 +194,8 @@
       <updated>1582542552872</updated>
       <workItem from="1585902044553" duration="1764000" />
       <workItem from="1585991362447" duration="559000" />
-      <workItem from="1586154160349" duration="13182000" />
+      <workItem from="1586154160349" duration="14726000" />
+      <workItem from="1586243464538" duration="3072000" />
     </task>
     <servers />
   </component>
@@ -235,22 +228,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="66" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585897542323" />
-    <state width="1340" height="3" key="GridCell.Tab.0.bottom" timestamp="1586153698364">
+    <state width="1340" height="24" key="GridCell.Tab.0.bottom" timestamp="1586357861989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="3" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586153698364" />
-    <state width="1340" height="3" key="GridCell.Tab.0.center" timestamp="1586153698364">
+    <state width="1340" height="24" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586357861989" />
+    <state width="1340" height="24" key="GridCell.Tab.0.center" timestamp="1586357861988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="3" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586153698364" />
-    <state width="1340" height="3" key="GridCell.Tab.0.left" timestamp="1586153698364">
+    <state width="1340" height="24" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586357861988" />
+    <state width="1340" height="24" key="GridCell.Tab.0.left" timestamp="1586357861988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="3" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586153698364" />
-    <state width="1340" height="3" key="GridCell.Tab.0.right" timestamp="1586153698364">
+    <state width="1340" height="24" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586357861988" />
+    <state width="1340" height="24" key="GridCell.Tab.0.right" timestamp="1586357861989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="3" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586153698364" />
+    <state width="1340" height="24" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586357861989" />
     <state width="1340" height="209" key="GridCell.Tab.1.bottom" timestamp="1583165976035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -275,19 +268,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1582646381587" />
-    <state x="325" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1586103590630">
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1586334290831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="325" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586103590630" />
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586334290831" />
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1585843727162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585843727162" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Questions$EstimatePi.coverage" NAME="EstimatePi Coverage Results" MODIFIED="1586163488307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Questions$XORLinkedList.coverage" NAME="XORLinkedList Coverage Results" MODIFIED="1586168946470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Questions$E_commerceLog.coverage" NAME="E-commerceLog Coverage Results" MODIFIED="1586181912328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Questions$RandomElementInfiniteStream.coverage" NAME="RandomElementInfiniteStream Coverage Results" MODIFIED="1586182136286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
