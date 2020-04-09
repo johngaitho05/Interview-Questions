@@ -6,7 +6,6 @@ class MaxHeap:
     def __init__(self, maxSize=10, initial_elements=None):
         self.a = [None] * maxSize
         self.n = 0
-        self.prev_dir = None
         if initial_elements is not None:
             for element in initial_elements:
                 self.insert(element)
@@ -32,12 +31,6 @@ class MaxHeap:
                 i = iparent
                 iparent = i // 2
         self.a[i] = k
-        while i > 1 and self.a[i-1].priority < self.a[i].priority:
-            self.a[i], self.a[i - 1] = self.a[i - 1], self.a[i]
-            i -= 1
-        if self.prev_dir is not None:
-            self.prev_dir.end_index = self.a[i].start_index
-        self.prev_dir = self.a[i]
 
     def delete_root(self):
         if self.n == 0:
