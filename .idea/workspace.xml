@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77606f33-bb32-466a-b72f-c43684e52d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MininumLectureRooms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringToWords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayProduct.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayProduct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBasedFileSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringBasedFileSystem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <recent name="C:\Users\John YK\PycharmProjects\Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MininumLectureRooms">
+  <component name="RunManager" selected="Python.StringToWords">
     <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringBasedFileSystem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringToWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Questions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\John YK\PycharmProjects\Questions\StringBasedFileSystem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringToWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MininumLectureRooms" />
-        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.StringToWords" />
         <item itemvalue="Python.StringBasedFileSystem (1)" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.MininumLectureRooms" />
         <item itemvalue="Python.Heap" />
-        <item itemvalue="Python.StringBasedFileSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -219,22 +217,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="66" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585897542323" />
-    <state width="1340" height="5" key="GridCell.Tab.0.bottom" timestamp="1586791113848">
+    <state width="1340" height="143" key="GridCell.Tab.0.bottom" timestamp="1592382595677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="5" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586791113848" />
-    <state width="1340" height="5" key="GridCell.Tab.0.center" timestamp="1586791113848">
+    <state width="1340" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592382595677" />
+    <state width="1340" height="143" key="GridCell.Tab.0.center" timestamp="1592382595677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="5" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586791113848" />
-    <state width="1340" height="5" key="GridCell.Tab.0.left" timestamp="1586791113848">
+    <state width="1340" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592382595677" />
+    <state width="1340" height="143" key="GridCell.Tab.0.left" timestamp="1592382595677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="5" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586791113848" />
-    <state width="1340" height="5" key="GridCell.Tab.0.right" timestamp="1586791113848">
+    <state width="1340" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592382595677" />
+    <state width="1340" height="143" key="GridCell.Tab.0.right" timestamp="1592382595677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1340" height="5" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586791113848" />
+    <state width="1340" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592382595677" />
     <state width="1340" height="209" key="GridCell.Tab.1.bottom" timestamp="1586430909387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,10 +253,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="86" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585897161687" />
-    <state x="325" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1592232624971">
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1592377211881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="325" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592232624971" />
+    <state x="325" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592377211881" />
     <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1585843727162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
