@@ -15,16 +15,17 @@ return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
 # SOLUTION
 def original_words(words, s):
+    if s in words:
+        return [s]
     result = []
     for i in range(len(s)):
         for j in range(i, len(s) + 1):
             if s[i:j] in words:
                 result = add_span(result, (i, j))
 
-    if len(result) == 0:
+    if len(result) < 2:
         return
-    if len(result) == 1:
-        return [s] if len(s) == result[0][1] else None
+
     result = [s[span[0]:span[1]] for span in result]
     result_string = ""
     for word in result:
@@ -44,12 +45,10 @@ def add_span(result, span):
     return result
 
 
-words = {"quick", "the", "brown", "fox"}
-s = "thequickbrownfox"
-print(original_words(words, s))
+dictionary = {"quick", "the", "brown", "fox"}
+string = "thequickbrownfox"
+print(original_words(dictionary, string))
 
-words = {"bedbathandbeyond", "and", "bath"}
-s = "bedbathandbeyond"
-print(original_words(words, s))
-
-
+dictionary = {"beyond", "and", "bath"}
+string = "bathand"
+print(original_words(dictionary, string))
